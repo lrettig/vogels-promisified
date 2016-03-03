@@ -1,0 +1,25 @@
+{
+  "name": "vogels-promisified",
+  "version": "1.0.0",
+  "description": "DynamoDB library Vogels promisified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servel333/vogels-promisified.git"
+  },
+  "keywords": [
+    "dynamodb",
+    "vogels",
+    "nosql",
+    "database"
+  ],
+  "author": "Nathan Perry",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/servel333/vogels-promisified/issues"
+  },
+  "homepage": "https://github.com/servel333/vogels-promisified#readme"
+}
