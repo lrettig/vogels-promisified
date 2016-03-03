@@ -15,4 +15,4 @@ vogels.model = function(name, model){
   return vogels_model.apply(vogels, arguments);
 };
 
-module.export = vogels;
+module.exports = vogels;
