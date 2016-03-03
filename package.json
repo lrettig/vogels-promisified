@@ -1,6 +1,6 @@
 {
   "name": "vogels-promisified",
-  "version": "1.0.0",
+  "version": "2.2.0",
   "description": "DynamoDB library Vogels promisified",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/servel333/vogels-promisified/issues"
   },
-  "homepage": "https://github.com/servel333/vogels-promisified#readme"
+  "homepage": "https://github.com/servel333/vogels-promisified#readme",
+  "dependencies": {
+    "bluebird": "^3.3.3",
+    "vogels": "^2.2.0"
+  }
 }
