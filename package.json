@@ -1,6 +1,6 @@
 {
   "name": "vogels-promisified",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "DynamoDB library Vogels promisified",
   "main": "index.js",
   "scripts": {
