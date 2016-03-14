@@ -2,7 +2,7 @@
 
 DynamoDB library [Vogels](https://github.com/ryanfitz/vogels) promisified for use with [Bluebird](http://bluebirdjs.com/docs/api-reference.html)
 
-A drop-in replacement that extens Vogels with `Async` methods.
+A drop-in replacement that extends Vogels with `Async` methods.
 
 ## Usage
 
